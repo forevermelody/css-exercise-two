@@ -3,7 +3,7 @@ body {
   color: #000000;
   font-size: 16px;
   font-family: sans-serif;
-  line-height: 1.2
+  line-height: 1.2;
   text-align: left;
 }
 
@@ -35,13 +35,13 @@ a:visited {
 
 h1 {
   font-size: 3em; /* 32px */
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 h3 {
   font-size: 1em;
   font-weight: bold;
-  line-height: 1.2
+  line-height: 1.2;
 }
 
 p {
@@ -106,5 +106,5 @@ li {
 .author {
   font-style: italic;
   font-size: 10px;
-  color: #080808
+  color: #080808;
 }
